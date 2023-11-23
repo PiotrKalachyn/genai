@@ -1,0 +1,10 @@
+/* home.component.css */
+
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Use full viewport height */
+  text-align: center;
+  flex-direction: column;
+}
